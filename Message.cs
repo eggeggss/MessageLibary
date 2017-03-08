@@ -20,11 +20,7 @@ namespace MessageLibary
 
     public class Message
     {
-        //public static String API_KEY = "AIzaSyD-_wh3ZtccNr1fNC5P-7KLV3syVZ7oprE";
-        //public static String KEYPATH = "c:\\certs\\auoapns.p12";
-        //public static String PASS = "Auo+apple";
-        //public static String KEYPATH = "c:\\certs\\final_push_production.p12";
-        //public static String PASS = "!Abcd12345";
+      
 
         public static String API_KEY;
         public static String KEYPATH;
